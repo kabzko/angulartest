@@ -34,6 +34,10 @@ select, textarea {
     overflow: hidden;
 }
 
+.blue {
+  color: blue;
+}
+
 
 .calendar{
     border: 1px solid #555;
